@@ -148,7 +148,7 @@ At this time, there are no known bugs.
 ## Authors
 Ogundare Abdulahi | [GitHub](https://github.com/obapythonaire) | [Twitter](https://twitter.com/abdulahi_001)
 
-Nkemjika Ezebilo | [GitHub](https://github.com/vianey-code) | [Twitter](https://twitter.com/vianey)
+Nkemjika Ezebilo | [GitHub](https://github.com/vianey-code) | [Twitter](https://twitter.com/Linzyvee)
 
 ## License
 simple_shell is open source and therefore free to download and use without permission.
