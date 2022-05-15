@@ -1,4 +1,4 @@
-# <a href="url"><img src="https://https://mpng.subpng.com/20180330/tzw/kisspng-shell-script-command-line-interface-unix-linux-5abe15e1c625b7.3528720615224068818116.jpg" align="middle" width="100" height="100"></a> simple_shell
+# <a href="url"><img src="https://mpng.subpng.com/20180330/tzw/kisspng-shell-script-command-line-interface-unix-linux-5abe15e1c625b7.3528720615224068818116.jpg" align="middle" width="100" height="100"></a> simple_shell
 
 You delete this
 then You delete this
