@@ -24,7 +24,6 @@ i
 i
 i
 i
-i
 
 ## Table of Contents
 * [Description](#description)
