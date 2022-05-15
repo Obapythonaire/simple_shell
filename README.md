@@ -159,9 +159,9 @@ drwxrwxr-x  8 vagrant vagrant  4096 Jul 19 22:34 .git
 At this time, there are no known bugs.
 
 ## Authors
-Alexa Orrico | [GitHub](https://github.com/obapythonaire) | [Twitter](https://twitter.com/abdulahi_001)
+Ogundare Abdulahi | [GitHub](https://github.com/obapythonaire) | [Twitter](https://twitter.com/abdulahi_001)
 
-John Cottrell | [GitHub](https://github.com/vianey-code) | [Twitter](https://twitter.com/vianey)
+Nkemjika Ezebilo | [GitHub](https://github.com/vianey-code) | [Twitter](https://twitter.com/vianey)
 
 ## License
 simple_shell is open source and therefore free to download and use without permission.
