@@ -14,7 +14,6 @@ then You delete this
 then You delete this
 then You delete this
 i
-i
 
 ## Table of Contents
 * [Description](#description)
